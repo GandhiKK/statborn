@@ -1,1 +1,3 @@
-# statborn-module
+# Statborn
+
+Custom statistics module
